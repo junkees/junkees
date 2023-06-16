@@ -18,7 +18,7 @@
 
 - 💻 db：![Mariadb](https://img.shields.io/badge/-MariaDB-red?style=flat-circle&logo=Mariadb)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
-- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
+- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
 
 
 
